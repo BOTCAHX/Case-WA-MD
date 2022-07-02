@@ -21,9 +21,8 @@ exports.help = (prefix) => {
 │
 │
 │
-│
 └──────────
 _*Bot Number :*_ wa.me/6281395861695
 _Laporan Anda Akan Segera Di Proses_`
 }
-a
+
