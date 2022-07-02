@@ -5,18 +5,25 @@
 exports.help = (prefix) => {
     return `
 ┌─「 Owner Bot」
-├ Hi %name
-├ Selamat Datang Di Chat WhatsApp Owner
-├
-├ Tanggal : %day_of_week%/%day_of_month_short%/%month_name%/%year%
-├ Batrei : %battery%%
-├ Bot : wa.me/681395861695
-├ Zona WIB : jam %hour_of_day%{%am/pm%}:%minute% menit
-├ Grup :%reply_count_groups% 
-├ Pesan Diterima :%reply_count_contacts%
-├ total pesan :%reply_count_overall%
-├─────────────
-├ Silahkan Tinggalkan Pesan,
-├ Owner Akan Segera Membalas.
-└─────────────`
+├ *Hi!*
+├ _Selamat Datang Di Chat WhatsApp *Owner*._
+├ _Silahkan Tinggalkan Pesan,_
+├ _Owner Akan Segera Membalas Laporan Anda_
+└──────────
+
+┌─「 Report/Bug 」
+├ Isi pesan disini......📑
+│
+│
+│
+│
+│
+│
+│
+│
+│
+└──────────
+_*Bot Number :*_ wa.me/6281395861695
+_Laporan Anda Akan Segera Di Proses_`
 }
+a
