@@ -4,14 +4,14 @@
  */
 exports.help = (prefix) => {
     return `
-┌─「 Owner Bot」
+┌─「 *Owner Bot* 」
 ├ *Hi!*
 ├ _Selamat Datang Di Chat WhatsApp *Owner*._
-├ _Silahkan Tinggalkan Pesan,_
-├ _Owner Akan Segera Membalas Laporan Anda_
+│ _Silahkan Tinggalkan Pesan,_
+│ _Owner Akan Segera Membalas Laporan Anda_
 └──────────
 
-┌─「 Report/Bug 」
+┌─「 *Report/Bug* 」
 ├ Isi pesan laporan anda disini...
 │
 │
